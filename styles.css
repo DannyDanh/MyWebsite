@@ -50,6 +50,7 @@
 }
 
 html{
+    -webkit-appearance: none
     scroll-behavior: smooth ;
     /* background-color: lightgrey;  */
     /* background-color:  ; */
