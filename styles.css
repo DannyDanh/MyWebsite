@@ -346,7 +346,7 @@ img{
     }
 }
 .about__perfil img{
-    max-width: 200px;
+    max-width: 180px;
     border-radius: 20px;
     border: 5px double var(--text-color);
     border-spacing: 10rem;
@@ -360,4 +360,5 @@ img{
     color: var(--text-color);
     margin-bottom: 4rem;
     text-align: justify;
+
 }
