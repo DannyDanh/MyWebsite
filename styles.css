@@ -335,21 +335,22 @@ img{
 }
 .about__container{
     display: flex;
+    padding: 2px;
     margin-bottom: .5rem;
 }
 @media screen and (max-width:900px) {
     .about__container{
-        display: grid;
+        display: block;
         text-align: center;
-        
+        /* padding: 2px; */
     }
 }
 .about__perfil img{
-    max-width: 250px;
+    max-width: 200px;
     border-radius: 20px;
     border: 5px double var(--text-color);
     border-spacing: 10rem;
-
+    margin-bottom: 2rem;
    
 }
 .about__info{
@@ -357,6 +358,6 @@ img{
     font-size: var(--h2-font-size);
     font-weight: 90;
     color: var(--text-color);
-    margin-bottom: 1rem;
+    margin-bottom: 4rem;
     text-align: justify;
 }
