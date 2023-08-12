@@ -350,7 +350,7 @@ img{
 .about__perfil img{
     max-width: 180px;
     border-radius: 20px;
-    border: 5px double var(--text-color);
+    border: 10px double var(--text-color);
     border-spacing: 10rem;
     margin-bottom: 2rem;
    
