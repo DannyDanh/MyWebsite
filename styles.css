@@ -346,8 +346,8 @@ img{
     .about__container{
         display: block;
         text-align: center;
-        /* padding: 2px; */
-        padding: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
     }
 }
 .about__perfil img{
