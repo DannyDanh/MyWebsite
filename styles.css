@@ -356,6 +356,7 @@ img{
    
 }
 .about__info{
+    padding: 10px;
     font-family: var(--body-font);
     font-size: var(--h2-font-size);
     font-weight: 90;
